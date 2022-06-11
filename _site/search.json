@@ -4,12 +4,12 @@
     "href": "index.html",
     "title": "Serious stuff",
     "section": "",
-    "text": "Experienced in SQL (PostgreSQL), R (RStudio), and Tableau. Skilled in data processing, dealing with databases, building models using econometric and statistics tools, setting and monitoring KPIs for products, facilitating digital marketing using Google Analytics and SEO tools.\nAdvanced in spoken and written English. Good at communication with customers and managing various stakeholders, presenting insights to them.\n\n\n\nIt’s me\n\n\n\n\n\n\n\n\nSurus\n\n\n\n\n\n\n\nHanno\n\n\n\n\n\n\n\n\n\nAbdul Abbas\n\n\n\n\n\n\n\nLin Wang\n\n\n\n\n\n\nplot(cars)\nplot(iris)\nplot(pressure)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlibrary(leaflet)\n\nWarning: package 'leaflet' was built under R version 4.1.2\n\nleaflet() %>%\n  addTiles() %>%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=30.5234, lat=50.4501, popup=\"The birthplace of Mariia\")"
+    "text": "My name is Mariia Atamaniuk. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.\nExperienced in SQL (PostgreSQL), R (RStudio), and Tableau. Skilled in data processing, dealing with databases, building models using econometric and statistics tools, setting and monitoring KPIs for products, facilitating digital marketing using Google Analytics and SEO tools.\nAdvanced in spoken and written English. Good at communication with customers and managing various stakeholders, presenting insights to them.\n\n\n\nIt’s me\n\n\nI was born in Kyiv - the capital of great people!\n\n\nWarning: package 'leaflet' was built under R version 4.1.2\n\n\n\n\n\n\nI have a bunch of professional certificates that I am truly proud of.\n\n\n\n\n\n\nSQL Bootcamp\n\n\n\n\n\n\n\nFinancial Markets by Yale University\n\n\n\n\n\n\n\n\n\nBusiness Analysis and Process Management\n\n\n\n\n\n\n\nGirls in Corporate Finance School by EY\n\n\n\n\n\nAs a data analyst, I am building nice graphs. This is my job. By the way, these are not my graphs."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Fun stuff",
     "section": "",
     "text": "But enough serious stuff. This website is for things that I will not include to the resume.\n\n1 + 1\n\n[1] 2"
   }

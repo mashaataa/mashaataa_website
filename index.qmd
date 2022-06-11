@@ -1,8 +1,9 @@
 ---
 title: "Serious stuff"
 ---
+### Hello! 
 
-My name is Mariia Atamaniuk. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.
+My name is **Mariia Atamaniuk**. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.
 
 Experienced in SQL (PostgreSQL), R (RStudio), and Tableau. Skilled in data processing, dealing with databases, building models using econometric and statistics tools, setting and monitoring KPIs for products, facilitating digital marketing using Google Analytics and SEO tools.
 
@@ -10,30 +11,41 @@ Advanced in spoken and written English. Good at communication with customers and
 
 ![*It's me*](MA_ava.jpg){fig-align="center" width="334"}
 
-::: {layout-nrow="2"}
-![Surus](MA_ava.jpg)
-
-![Hanno](MA_ava.jpg)
-
-![Abdul Abbas](MA_ava.jpg)
-
-![Lin Wang](MA_ava.jpg)
-:::
+I was born in Kyiv - the capital of great people! 
 
 ```{r}
 #| column: screen-inset-shaded
-#| layout-nrow: 1
-
-plot(cars)
-plot(iris)
-plot(pressure)
-```
-
-```{r}
-#| column: screen-inset-shaded
+#| echo: false
+#| warn: 0
 
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
   addMarkers(lng=30.5234, lat=50.4501, popup="The birthplace of Mariia")
 ```
+
+I have a bunch of professional certificates that I am truly proud of. 
+
+::: {layout-ncol="2"}
+![SQL Bootcamp](SQL.jpg) 
+
+![Financial Markets by Yale University](FinMarkets.jpg) 
+
+![Business Analysis and Process Management](BusAnal.jpg)
+
+![Girls in Corporate Finance School by EY](Corp.jpg)
+:::
+
+As a data analyst, I am building nice graphs. This is my job. By the way, these are not my graphs. 
+
+```{r}
+#| column: screen-inset-shaded
+#| layout-nrow: 1
+#| echo: false
+
+plot(cars)
+plot(iris)
+plot(pressure)
+```
+
+
