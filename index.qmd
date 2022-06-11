@@ -10,9 +10,9 @@ Experienced in SQL (PostgreSQL), R (RStudio), and Tableau. Skilled in data proce
 
 Advanced in spoken and written English. Good at communication with customers and managing various stakeholders, presenting insights to them.
 
-![](MA_ava.jpg){fig-align="center" width="404"}
+![](MA_ava.jpg){fig-align="center" width="456"}
 
-I was born in **Kyiv** (Ukraine) - the capital of great people! Unfortunately, we have a noizy southern neighbor so we are sorry for the inconveniences if you decide to visit Ukraine now.
+I was born in **Kyiv** (Ukraine) - the capital of great people! Unfortunately, we have a noisy southern neighbor so we are sorry for the inconveniences if you decide to visit Ukraine now.
 
 ```{r}
 #| column: screen-inset-shaded
@@ -27,12 +27,12 @@ leaflet() %>%
 
 ### Certificates
 
-I have a bunch of professional certificates that I am truly proud of.
+I have a bunch of professional certificates that can prove you my expertise in the respective fields.
 
 ::: {layout-ncol="2"}
 ![SQL Bootcamp](SQL.jpg)
 
-![Financial Markets by Yale University](FinMarkets.jpg)
+![Financial Markets by Yale University![]()](FinMarkets.jpg)
 
 ![Business Analysis and Process Management](BusAnal.jpg)
 

@@ -16,8 +16,6 @@ format:
     theme: litera
     css: styles.css
     toc: true
-    fontsize: 1.1em
-    linestretch: 1.7
 
 editor: visual
 
