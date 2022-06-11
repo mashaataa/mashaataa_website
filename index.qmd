@@ -1,0 +1,39 @@
+---
+title: "Serious stuff"
+---
+
+My name is Mariia Atamaniuk. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.
+
+Experienced in SQL (PostgreSQL), R (RStudio), and Tableau. Skilled in data processing, dealing with databases, building models using econometric and statistics tools, setting and monitoring KPIs for products, facilitating digital marketing using Google Analytics and SEO tools.
+
+Advanced in spoken and written English. Good at communication with customers and managing various stakeholders, presenting insights to them.
+
+![*It's me*](MA_ava.jpg){fig-align="center" width="334"}
+
+::: {layout-nrow="2"}
+![Surus](MA_ava.jpg)
+
+![Hanno](MA_ava.jpg)
+
+![Abdul Abbas](MA_ava.jpg)
+
+![Lin Wang](MA_ava.jpg)
+:::
+
+```{r}
+#| column: screen-inset-shaded
+#| layout-nrow: 1
+
+plot(cars)
+plot(iris)
+plot(pressure)
+```
+
+```{r}
+#| column: screen-inset-shaded
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=30.5234, lat=50.4501, popup="The birthplace of Mariia")
+```
