@@ -1,10 +1,8 @@
 ---
-title: "Fun stuff"
+title: "About"
 ---
 
 About this site
-
-But enough serious stuff. This website is for things that I will not include to the resume.
 
 ```{r}
 1 + 1

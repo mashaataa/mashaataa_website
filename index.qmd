@@ -1,7 +1,8 @@
 ---
 title: "Serious stuff"
 ---
-### Hello! 
+
+### Intro
 
 My name is **Mariia Atamaniuk**. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.
 
@@ -9,14 +10,14 @@ Experienced in SQL (PostgreSQL), R (RStudio), and Tableau. Skilled in data proce
 
 Advanced in spoken and written English. Good at communication with customers and managing various stakeholders, presenting insights to them.
 
-![*It's me*](MA_ava.jpg){fig-align="center" width="334"}
+![](MA_ava.jpg){fig-align="center" width="404"}
 
-I was born in Kyiv - the capital of great people! 
+I was born in **Kyiv** (Ukraine) - the capital of great people! Unfortunately, we have a noizy southern neighbor so we are sorry for the inconveniences if you decide to visit Ukraine now.
 
 ```{r}
 #| column: screen-inset-shaded
 #| echo: false
-#| warn: 0
+#| warning: false
 
 library(leaflet)
 leaflet() %>%
@@ -24,19 +25,23 @@ leaflet() %>%
   addMarkers(lng=30.5234, lat=50.4501, popup="The birthplace of Mariia")
 ```
 
-I have a bunch of professional certificates that I am truly proud of. 
+### Certificates
+
+I have a bunch of professional certificates that I am truly proud of.
 
 ::: {layout-ncol="2"}
-![SQL Bootcamp](SQL.jpg) 
+![SQL Bootcamp](SQL.jpg)
 
-![Financial Markets by Yale University](FinMarkets.jpg) 
+![Financial Markets by Yale University](FinMarkets.jpg)
 
 ![Business Analysis and Process Management](BusAnal.jpg)
 
 ![Girls in Corporate Finance School by EY](Corp.jpg)
 :::
 
-As a data analyst, I am building nice graphs. This is my job. By the way, these are not my graphs. 
+### Plots
+
+As a data analyst, I am building nice graphs. It is my job to do so. By the way, these are not my graphs.
 
 ```{r}
 #| column: screen-inset-shaded
@@ -47,5 +52,3 @@ plot(cars)
 plot(iris)
 plot(pressure)
 ```
-
-

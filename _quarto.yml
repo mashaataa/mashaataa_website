@@ -1,14 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Mariia Atamaniuk"
   navbar:
     left:
       - href: index.qmd
-        text: Serious CV
+        text: Serious stuff
       - href: about.qmd
-        text: Not serious CV
+        text: About
 
 format:
   html:
