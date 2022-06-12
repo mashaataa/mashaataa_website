@@ -1,9 +1,92 @@
 ---
-title: "About"
+title: "Fun stuff"
 ---
+My name is **Mariia Atamaniuk**. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.
 
-About this site
+### Intro
 
-```{r}
-1 + 1
-```
+Experienced in SQL (PostgreSQL), R (RStudio), and Tableau...
+
+Wait. *Are you bored already?* I know. Sorry for that. **This page is for things that I will not include in my resume**.
+
+### First serious assignment
+
+I was 18, when I had my first serious job at the British-Ukrainian Chamber of Commerce. After only three months of working there I was appointed to be a **main organizer of the dinner for the President of Ukraine Petro Poroshenko** in 2018 with 20 biggest investors in Ukraine in the awesome Armourer's Hall.
+
+*If I were my boss, I would hesitate to appoint a 18-year old intern to organize one of the most important events at the organization, but I did well! Look!*
+
+![](Poroshenko.jpg){fig-align="center"}
+
+### Investment talks
+
+Besides organizing conferences, I was also attending them - to meet new people and having fun arranging new business. During past couple of years, **I have attended more than 100 conferences**, workshops, webinars, and networking events.
+
+*But to be honest, I am there only for food.*
+
+![](eating.jpeg){fig-align="center"}
+
+### Whisperer
+
+My friend has a YouTube channel with ASMR content, and I participated in two of her videos. Together, these two videos gathered about **half a million views**.
+
+*I am truly flattered that people enjoy watching me enjoying tingles!*
+
+![](images/Screenshot%202022-06-12%20at%2019.43.57.png)
+
+### Jokes accountancy
+
+As the classic has once said, "life is a joke, and I am laughing, even though I did not understand the humour".
+
+Two years ago, I launched a **private telegram channel** where I wrote down jokes that I heard around me: mostly from my friends. So far, there are **12,635 jokes** and I want to stop.
+
+*But I can't*.
+
+![](images/Screenshot%202022-06-12%20at%2021.57.20.png)
+
+### Mess management 
+
+With a group of friends, we once decided to organize a techno festival on Troeshchyna, in the abandoned church at the edge of Kyiv. We agreed with a local security guy for a box of vodka that he allows us to do this.
+
+Spoiler: it didn't happen. Person responsible for DJs went crazy (literally) and dropped out.
+
+*The venue was amazing for such festival.*
+
+::: {layout-ncol="2"}
+![](str.jpg)
+
+![](str2.jpg)
+:::
+
+### Metal friend
+
+I had bunch of different hobbies in my life, i.e. piano, web-design, chess, sports. I loved working out at the gym, but it became pretty annoying to repeat the same exercises again and again. I wanted to transform sport into art. And - started pole dancing.
+
+*If you are considering doing it as well, please note that as a byproduct you may receive nasty comments in your DM.*
+
+::: {layout-ncol="2"}
+![](pole1.jpg){width="268"}
+
+![](pole2.jpg){width="268"}
+:::
+
+### Stolen cake
+
+Once I solicited my friend to pretend that he had a birthday to get a free cake from a cafe. They brought us cheesecake. It was very tasty, thank you for asking. And no, we do not regret it.
+
+*And by the way, this is my photo on film. Hashtag 35 mm.*
+
+![](images/001099620030.jpg){fig-align="center"}
+
+### Biggest achievement in life
+
+Sometimes, when I have a bad mood, I start thinking about my *non-existing* achievements in life and become sad. But then I recall that last year a team of my sister and me took a first prize in **pétanque competition** and won over skilled Armenians who spend each weekend in the golf club.
+
+*If you have no idea what pétanque is - don't ask me. I don't know too.*
+
+![](pet.jpg){fig-align="center" width="350"}
+
+### Outro
+
+Life is a beautiful mess. Let's live it together! 
+
+*Hire me and get unlimited access to my laughs at your jokes!*

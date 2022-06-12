@@ -1,1 +1,22 @@
 /* css styles */
+body {
+  background-color: white;
+}
+
+h3 {
+  color: #B0183B;
+  text-align: center;
+  font-size: 25px;
+}
+
+p {
+  font-family: verdana, sans-serif;
+  font-size: 15px;
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
