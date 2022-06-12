@@ -2,7 +2,7 @@
 title: "Serious stuff"
 ---
 
-### Intro
+### Intro part
 
 My name is **Mariia Atamaniuk**. I am a professional analyst with 5+ years of experience in market research, product and customer analytics, as well as in investment projects.
 
